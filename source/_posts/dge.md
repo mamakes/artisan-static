@@ -19,3 +19,6 @@ Cloudinary is also integrated into Netlify CMS. To ensure that this works, make 
 
 
 [Now] (https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/qq2slabgpy590znlop4j).
+
+
+<a href="https://vigorous-lichterman-04ce7e.netlify.app/" target="_blank">https://vigorous-lichterman-04ce7e.netlify.app/</a>
